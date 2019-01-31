@@ -22,7 +22,7 @@ class Server extends JFrame
 	JTextArea jta;
 	JButton jb;
 
-	public edittedServer() throws Exception,NumberFormatException
+	public Server() throws Exception,NumberFormatException
 	{
 		jp=new JPanel();
 		add(jp);		
